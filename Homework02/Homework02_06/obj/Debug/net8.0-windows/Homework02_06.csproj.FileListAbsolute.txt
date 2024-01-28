@@ -1,0 +1,16 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\bin\Debug\net8.0-windows\Homework02_06.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\bin\Debug\net8.0-windows\Homework02_06.deps.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\bin\Debug\net8.0-windows\Homework02_06.runtimeconfig.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\bin\Debug\net8.0-windows\Homework02_06.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\bin\Debug\net8.0-windows\Homework02_06.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\Homework02_06.Form1.resources
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\Homework02_06.csproj.GenerateResource.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\Homework02_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\Homework02_06.AssemblyInfoInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\Homework02_06.AssemblyInfo.cs
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\Homework02_06.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\Homework02_06.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\refint\Homework02_06.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\Homework02_06.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\Homework02_06.genruntimeconfig.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\C# Practice\Homework02\Homework02_06\obj\Debug\net8.0-windows\ref\Homework02_06.dll

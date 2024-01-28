@@ -1,0 +1,15 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\bin\Debug\net8.0\Homework02_07.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\bin\Debug\net8.0\Homework02_07.deps.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\bin\Debug\net8.0\Homework02_07.runtimeconfig.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\bin\Debug\net8.0\Homework02_07.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\bin\Debug\net8.0\Homework02_07.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\obj\Debug\net8.0\Homework02_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\obj\Debug\net8.0\Homework02_07.AssemblyInfoInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\obj\Debug\net8.0\Homework02_07.AssemblyInfo.cs
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\obj\Debug\net8.0\Homework02_07.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\obj\Debug\net8.0\Homework02_07.sourcelink.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\obj\Debug\net8.0\Homework02_07.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\obj\Debug\net8.0\refint\Homework02_07.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\obj\Debug\net8.0\Homework02_07.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\obj\Debug\net8.0\Homework02_07.genruntimeconfig.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_07\obj\Debug\net8.0\ref\Homework02_07.dll

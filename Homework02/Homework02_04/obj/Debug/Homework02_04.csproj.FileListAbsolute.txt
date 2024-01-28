@@ -1,0 +1,10 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_04\bin\Debug\Homework02_04.exe.config
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_04\bin\Debug\Homework02_04.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_04\bin\Debug\Homework02_04.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_04\obj\Debug\Homework02_04.csproj.AssemblyReference.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_04\obj\Debug\Homework02_04.frmCollegeAdmission.resources
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_04\obj\Debug\Homework02_04.Properties.Resources.resources
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_04\obj\Debug\Homework02_04.csproj.GenerateResource.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_04\obj\Debug\Homework02_04.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_04\obj\Debug\Homework02_04.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework02\Homework02_04\obj\Debug\Homework02_04.pdb
