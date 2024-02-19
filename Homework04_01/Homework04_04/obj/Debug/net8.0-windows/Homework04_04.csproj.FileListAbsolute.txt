@@ -1,0 +1,17 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\bin\Debug\net8.0-windows\Homework04_04.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\bin\Debug\net8.0-windows\Homework04_04.deps.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\bin\Debug\net8.0-windows\Homework04_04.runtimeconfig.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\bin\Debug\net8.0-windows\Homework04_04.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\bin\Debug\net8.0-windows\Homework04_04.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\Homework04_04.frmMovieDatabase.resources
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\Homework04_04.csproj.GenerateResource.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\Homework04_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\Homework04_04.AssemblyInfoInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\Homework04_04.AssemblyInfo.cs
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\Homework04_04.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\Homework04_04.sourcelink.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\Homework04_04.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\refint\Homework04_04.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\Homework04_04.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\Homework04_04.genruntimeconfig.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework04_01\Homework04_04\obj\Debug\net8.0-windows\ref\Homework04_04.dll
