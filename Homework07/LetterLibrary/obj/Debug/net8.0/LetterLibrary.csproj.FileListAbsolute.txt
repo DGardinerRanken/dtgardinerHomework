@@ -1,0 +1,12 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\bin\Debug\net8.0\LetterLibrary.deps.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\bin\Debug\net8.0\LetterLibrary.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\bin\Debug\net8.0\LetterLibrary.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\obj\Debug\net8.0\LetterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\obj\Debug\net8.0\LetterLibrary.AssemblyInfoInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\obj\Debug\net8.0\LetterLibrary.AssemblyInfo.cs
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\obj\Debug\net8.0\LetterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\obj\Debug\net8.0\LetterLibrary.sourcelink.json
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\obj\Debug\net8.0\LetterLibrary.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\obj\Debug\net8.0\refint\LetterLibrary.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\obj\Debug\net8.0\LetterLibrary.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework07\LetterLibrary\obj\Debug\net8.0\ref\LetterLibrary.dll
