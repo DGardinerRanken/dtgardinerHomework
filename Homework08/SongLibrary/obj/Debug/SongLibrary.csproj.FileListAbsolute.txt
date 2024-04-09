@@ -1,0 +1,6 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongLibrary\bin\Debug\SongLibrary.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongLibrary\bin\Debug\SongLibrary.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongLibrary\obj\Debug\SongLibrary.csproj.AssemblyReference.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongLibrary\obj\Debug\SongLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongLibrary\obj\Debug\SongLibrary.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongLibrary\obj\Debug\SongLibrary.pdb

@@ -1,0 +1,13 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\bin\Debug\SongSearch.exe.config
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\bin\Debug\SongSearch.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\bin\Debug\SongSearch.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\obj\Debug\SongSearch.csproj.AssemblyReference.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\obj\Debug\SongSearch.frmSongSearch.resources
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\obj\Debug\SongSearch.Properties.Resources.resources
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\obj\Debug\SongSearch.csproj.GenerateResource.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\obj\Debug\SongSearch.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\obj\Debug\SongSearch.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\obj\Debug\SongSearch.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\bin\Debug\SongLibrary.dll
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\bin\Debug\SongLibrary.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\SongSearch\obj\Debug\SongSearch.csproj.CopyComplete

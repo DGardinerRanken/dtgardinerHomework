@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Accounts.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfa2fc91852cd94b8297fb6ac10331930591ca3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e58f6ea3d91bdbf369de2dcae3fcd9d9ce86871")]
 [assembly: System.Reflection.AssemblyProductAttribute("Accounts.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Accounts.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

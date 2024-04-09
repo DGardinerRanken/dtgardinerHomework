@@ -1,0 +1,7 @@
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\EmployeeSearch\obj\Debug\EmployeeSearch.csproj.AssemblyReference.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\EmployeeSearch\obj\Debug\EmployeeSearch.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\EmployeeSearch\bin\Debug\EmployeeSearch.exe.config
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\EmployeeSearch\bin\Debug\EmployeeSearch.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\EmployeeSearch\bin\Debug\EmployeeSearch.pdb
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\EmployeeSearch\obj\Debug\EmployeeSearch.exe
+C:\Users\danny\OneDrive\Desktop\AWD1100\dtgardinerHomework\Homework08\EmployeeSearch\obj\Debug\EmployeeSearch.pdb
